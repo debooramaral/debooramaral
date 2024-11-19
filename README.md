@@ -24,7 +24,7 @@
 
 <p align="left">Eu sou de Campo Grande - MS<br> <br>🔭 Estou buscando emprego na área da TI<br>📚 Atualmente estou estudando MERN STACK e criando um projeto pessoal de E-Commerce  <br>⚡ Em meu tempo livre gosto de estar com amigos e familia </p>
 
-Siga a Pagina da Loja DSA [![a loja DSA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alojadsa/)
+
 ###
 
 <h3 align="left">🔥   Meu Status:</h3>
